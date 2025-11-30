@@ -18,8 +18,9 @@ PCB:
 
 BOM:
 
-- Six Cherry MX key swtches
-- Six Compatible Key Caps
+- Six MX-style key swtches
+- Six Blank DSA Keycaps
+- Eight SK6812 MINI-E LEDs
 - Two Rotary Encoders
 - One Seeed XIAO RP2040
 - One PCB
